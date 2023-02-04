@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **"The only true wisdom is in knowing you know nothing." - Socrates**
 
+- ⚡⚡This ones on the house : **"You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anoop-johny-30a746181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anoop-johny-30a746181/" height="30" width="40" /></a>
