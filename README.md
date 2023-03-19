@@ -16,7 +16,7 @@
 - 🤝 I want to be a **problem solver**
 
 - 👨‍💻 All of my projects are available at [https://github.com/flyfir248](https://github.com/flyfir248)
-- 👨‍💻 All of my projects are available at [https://medium.com/@anoopjohny2000](https://medium.com/@anoopjohny2000)
+- 👨‍✍️💻 I also write for medium [https://medium.com/@anoopjohny2000](https://medium.com/@anoopjohny2000)
 
 - 📝 I regularly write articles on [https://pythonpythonme.netlify.app/index.html](https://pythonpythonme.netlify.app/index.html)
 
