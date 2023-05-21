@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=flyfir248&label=Profile%20views&color=0e75b6&style=flat" alt="flyfir248" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyfir248&theme=matrix" alt="flyfir248" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyfir248&theme=matrix" alt="flyfir248" /></a> </p>
 <img align="right" alt="dancing computer" width=400 src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47undw84g8v27im1ipaavknrsttjxpj4amupofwia6&rid=giphy.gif&ct=g"></img>
 
 - 🔭 I’m trying to **understand applied Ml and DL**
