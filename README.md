@@ -52,9 +52,11 @@
 <h3 align="left">My Flask Apps:</h3>
 
 - ⚡**StockMarket App**
+<h6 align="left">
 <a href="https://stockmarketapp.onrender.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+  <img src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a></h6>
   
 - ⚡**Image Search App**
+<h6 align="left">
 <a href="https://fireflyappgoawhistler.onrender.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+  <img src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a></h6>
