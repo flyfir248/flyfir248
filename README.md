@@ -53,13 +53,13 @@
 <h3 align="center">My Flask Apps</h3>
 
 
-- ⚡**StockMarket App :** <a href="https://stockmarketapp.onrender.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+- ⚡**StockMarket App :** <a href="https://stockmarketapp.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
   
-- ⚡**ImageSearch App :** <a href="https://fireflyappgoawhistler.onrender.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+- ⚡**ImageSearch App :** <a href="https://fireflyappgoawhistler.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
 
-- ⚡**Add-to-Cart App :** <a href="https://addcartstuff-anoopjohny.netlify.app/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+- ⚡**Add-to-Cart App :** <a href="https://addcartstuff-anoopjohny.netlify.app/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
 
-- ⚡**Dynamicnamelist App :** <a href="https://dynamicnamelist.onrender.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+- ⚡**Dynamicnamelist App :** <a href="https://dynamicnamelist.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
