@@ -49,9 +49,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyfir248&" alt="flyfir248" /></p>
 
-<p align="center">
-My Flask Apps
-</p>
+
+<h3 align="center">My Flask Apps</h3>
+
 
 - ⚡**StockMarket App :** <a href="https://stockmarketapp.onrender.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
