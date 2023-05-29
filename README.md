@@ -3,6 +3,7 @@
 </p>
   
 <h1 align="center">Hi 👋, I'm Anoop Johny</h1>
+
 <h3 align="center">I'm passionate about code</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=flyfir248&label=Profile%20views&color=0e75b6&style=flat" alt="flyfir248" /> </p>
