@@ -65,3 +65,6 @@
 
 
 - ⚡**Dynamicnamelist App :** <a href="https://dynamicnamelist.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+
+
+- ⚡**NCBIwebapp App :** <a href="https://ncbiwebapp.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
