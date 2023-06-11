@@ -68,3 +68,9 @@
 
 
 - ⚡**NCBIwebapp App :** <a href="https://ncbiwebapp.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+
+
+- ⚡**Cinema App :** <a href="https://cinemaapp-ce4k.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+
+
+- ⚡**News App :** <a href="https://newsapp-dcs6.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
