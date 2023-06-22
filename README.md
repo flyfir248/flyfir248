@@ -73,3 +73,7 @@
 
 
 - ⚡**News App :** <a href="https://newsapp-dcs6.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+
+- ⚡**Sentiment Streamlit App :** <a href="https://sentimentapp-dyni.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+- ⚡**Sentiment Flask App :** <a href="https://sentiment-app2.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+
