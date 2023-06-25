@@ -9,7 +9,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyfir248&theme=matrix" alt="flyfir248" /></a> </p>
 <img align="right" alt="dancing computer" width=400 src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47undw84g8v27im1ipaavknrsttjxpj4amupofwia6&rid=giphy.gif&ct=g"></img>
 
-
 - 🔭 I’m trying to **understand applied Ml and DL**
 
 - 🌱 I’m currently learning **various aspects of programming**
