@@ -48,13 +48,11 @@ ____________________________
 
 ______________________________
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flyfir248&show_icons=true&locale=en&layout=compact" alt="flyfir248" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flyfir248&show_icons=true&locale=en&layout=compact" alt="flyfir248" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flyfir248&show_icons=true&locale=en" alt="flyfir248" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=flyfir248&show_icons=true&locale=en" alt="flyfir248" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyfir248&" alt="flyfir248" /></p>
-
-<p></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyfir248&" alt="flyfir248" />
 
 ____________________
 
