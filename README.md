@@ -48,12 +48,13 @@ ____________________________
 
 ______________________________
 
+<p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flyfir248&show_icons=true&locale=en&layout=compact" alt="flyfir248" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=flyfir248&show_icons=true&locale=en" alt="flyfir248" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyfir248&" alt="flyfir248" />
-
+</p>
 ____________________
 
 <h3 align="center">My Flask Apps</h3>
