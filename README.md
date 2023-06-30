@@ -49,8 +49,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyfir248&" alt="flyfir248" /></p>
 
 <p></p>
+_______
 <h3 align="center">My Flask Apps</h3>
-
+_______
 
 - ⚡**StockMarket App :** <a href="https://stockmarketapp.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
@@ -73,7 +74,7 @@
 
 - ⚡**Sentiment Streamlit App :** <a href="https://sentimentapp-dyni.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 - ⚡**Sentiment Flask App :** <a href="https://sentiment-app2.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-_______
+
 
 - ⚡**Flask Blog App :** <a href="https://flaskblog-r8ci.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
