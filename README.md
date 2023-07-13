@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xyjpyo99b9jgldf1ttmg7v3keiauv994j1ukmj4m&rid=giphy.gif&ct=g" alt="flyfir248" /></img>
 </p>
- 
+
 <h1 align="center">Hi 👋, I'm Anoop Johny</h1>
 <h3 align="center">I'm passionate about code 🫶</h3>
 
