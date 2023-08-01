@@ -73,7 +73,14 @@ ______________________________
 <p align="center"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyfir248&" alt="flyfir248" />
 </p>
+____________________
 
+<h3 align="center">My Publications</h3>
+____________________
+
+- **Pharmacological Effects of Bioactive Compounds From Allium sativum **
+<a href="https://www.igi-global.com/chapter/pharmacological-effects-of-bioactive-compounds-from-allium-sativum/327300" target="_blank" rel="noreferrer" align="center"> Click Here to check it out!!
+</a>
 ____________________
 
 <h3 align="center">My Flask Apps</h3>
