@@ -73,19 +73,19 @@ ______________________________
 <p align="center"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyfir248&" alt="flyfir248" />
 </p>
-____________________
+____________________________
 
 <h3 align="center">My Publications</h3>
-____________________
+____________________________
 
 - **Pharmacological Effects of Bioactive Compounds From Allium sativum**
 <a href="https://www.igi-global.com/chapter/pharmacological-effects-of-bioactive-compounds-from-allium-sativum/327300" target="_blank" rel="noreferrer" align="center"> Click Here to check it out!!
 </a>
-____________________
+____________________________
 
 <h3 align="center">My Flask Apps</h3>
 
-___________
+____________________________
 
 - ⚡**StockMarket App :** <a href="https://stockmarketapp.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
