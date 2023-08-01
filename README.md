@@ -33,12 +33,25 @@ __________________________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anoop-johny-30a746181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anoop-johny-30a746181/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/firefly2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="firefly2000" height="30" width="40" /></a>
-<a href="https://kaggle.com/anoop johny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anoop johny" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@datacookie5774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@datacookie5774" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mytunes4497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mytunes4497" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anoopjohny2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anoopjohny2000" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anoop-johny-30a746181/" target="[blank](https://www.linkedin.com/in/anoop-johny-30a746181/)">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anoop-johny-30a746181/" height="30" width="40" /></a>
+  
+<a href="https://stackoverflow.com/users/firefly2000" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="firefly2000" height="30" width="40" /></a>
+
+<a href="https://kaggle.com/anoop johny" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anoop johny" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/@datacookie5774" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@datacookie5774" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/@mytunes4497" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mytunes4497" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/@anoopjohny2000" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anoopjohny2000" height="30" width="40" /></a>
+
 </p>
 
 ____________________________
