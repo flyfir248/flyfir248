@@ -85,6 +85,7 @@ ____________________________
 - **Pharmacological Effects of Bioactive Compounds From Allium sativum**
 <a href="https://www.igi-global.com/chapter/pharmacological-effects-of-bioactive-compounds-from-allium-sativum/327300" target="_blank" rel="noreferrer" align="center"> : <b>Click Here to check the preview!!</b>
 </a>
+<a href="https://drive.google.com/file/d/1HKBNJTx-mnW2XA2AcuB2NZJg4YFIHkbd/view?usp=drive_link">Read paper here</a>
 
 ____________________________
 
