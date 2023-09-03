@@ -119,6 +119,7 @@ ____________________________
 - ⚡**Sentiment Streamlit App :** <a href="https://sentimentapp-dyni.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 - ⚡**Sentiment Flask App :** <a href="https://sentiment-app2.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
+- ⚡**Stock market Analytics Dashboard:** <a href="https://stockmarket-analysisa-alpha.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
 - ⚡**Flask Blog App :** <a href="https://flaskblog-r8ci.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
