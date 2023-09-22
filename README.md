@@ -36,13 +36,13 @@ __________________________________
 <a href="https://www.linkedin.com/in/anoop-johny-30a746181/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anoop-johny-30a746181/" height="30" width="40" /></a>
   
-<a href="https://stackoverflow.com/users/firefly2000" target="blank">
+<a href="https://stackoverflow.com/users/19240921/firefly2000" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="firefly2000" height="30" width="40" /></a>
 
 <a href="https://www.kaggle.com/anoopjohny" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anoop johny" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/channel/UC9ZyiyrZt0VTqV8vaKHTFtw" target="blank">
+<a href="https://www.youtube.com/channel/UChWe1TnEtu9ywjoWIQxpBzQ" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@datacookie5774" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/channel/UC9ZyiyrZt0VTqV8vaKHTFtw" target="blank">
