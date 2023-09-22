@@ -86,6 +86,12 @@ ____________________________
 <a href="https://drive.google.com/file/d/1HKBNJTx-mnW2XA2AcuB2NZJg4YFIHkbd/view?usp=drive_link" target="_blank" rel="noreferrer" align="center"><b>Read paper here</b></a>
 </a>
 
+- **Bacherlor's Thesis Work : Kabasura Kudineer and Thondasura Kudineer Potential Siddha formulations for treating COVID-19: An in silico approach**
+<a href="https://drive.google.com/file/d/1i1tfz3WKzQW5xSanSjl2yo4PiZcdtoy4/view?usp=drive_link" target="_blank" rel="noreferrer" align="center"> : <b>Read the white paper Here!!</b>
+<a href="https://docs.google.com/document/d/1zjf9WSW_YM3HzsCw8nesrmKqunaus5yS/edit?usp=sharing&ouid=100947991313941206951&rtpof=true&sd=true" target="_blank" rel="noreferrer" align="center"><b>Supplementary</b></a>
+<a href="https://docs.google.com/document/d/1bD4T2iMmdjScRQnQ3ij16MNVPHckJ4pe/edit?usp=sharing&ouid=100947991313941206951&rtpof=true&sd=true" target="_blank" rel="noreferrer" align="center"><b>Certification</b></a>
+</a>
+
 
 ____________________________
 
