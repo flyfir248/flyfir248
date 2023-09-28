@@ -52,7 +52,7 @@ __________________________________
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anoopjohny2000" height="30" width="40" /></a>
 
 <a href="https://leetcode.com/anoopjohny2000/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="@anoopjohny2000" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LeetCode.svg" alt="@anoopjohny2000" height="30" width="40" /></a>
 
 
 </p>
