@@ -60,6 +60,10 @@ __________________________________
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LeetCode.svg" alt="@anoopjohny2000" height="30" width="40" />
 </a>
 
+<a href="https://gist.github.com/flyfir248" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/128/25/25471.png" alt="@anoopjohny2000" height="30" width="40" />
+</a>
+
 </p>
 
 ____________________________
