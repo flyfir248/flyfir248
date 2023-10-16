@@ -57,11 +57,11 @@ __________________________________
 </a>
 
 <a href="https://leetcode.com/anoopjohny2000/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LeetCode.svg" alt="@anoopjohny2000" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="@anoopjohny2000" height="30" width="40" />
 </a>
 
 <a href="https://gist.github.com/flyfir248" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/128/25/25471.png" alt="@anoopjohny2000" height="30" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/128/214/214513.png" alt="@anoopjohny2000" height="30" width="40" />
 </a>
 
 </p>
