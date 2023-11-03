@@ -27,6 +27,7 @@
 - ⚡ Fun fact **"The only true wisdom is in knowing you know nothing." - Socrates**
 
 - ⚡⚡This ones on the house : **"You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius**
+-  My Work : https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/Software-Scientific-Computing/team.html
 
 __________________________________
 
