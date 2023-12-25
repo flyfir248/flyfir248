@@ -29,6 +29,9 @@
 - ⚡⚡This ones on the house : **"You have power over your mind, not outside events. Realize this, and you will find strength." - Marcus Aurelius**
 -  My Work : https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/Software-Scientific-Computing/team.html
 
+
+__________________________________
+![GitHub Contributions 3D Model](https://github.com/flyfir248/github-stls/blob/main/flyfir248-2023.stl)
 __________________________________
 
 <h3 align="left">Connect with me:</h3>
