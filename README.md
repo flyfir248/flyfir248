@@ -174,13 +174,16 @@ ____________________________
 
 - **Pharmacological Effects of Bioactive Compounds From Allium sativum**
 <a href="https://www.igi-global.com/chapter/pharmacological-effects-of-bioactive-compounds-from-allium-sativum/327300" target="_blank" rel="noreferrer" align="center"> : <b>Click Here to check the preview!!</b>
+
 <a href="https://drive.google.com/file/d/1HKBNJTx-mnW2XA2AcuB2NZJg4YFIHkbd/view?usp=drive_link" target="_blank" rel="noreferrer" align="center"><b>Read paper here</b></a>
 </a>
 
 - **Artificial intelligence in radiological diagnosis: a review**
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733814" target="_blank" rel="noreferrer" align="center"> : <b>Click Here to check the preview!!</b>
+
 <a href="https://deliverypdf.ssrn.com/delivery.php?ID=560120086072068003018125066080004005063062020029025039112122127081031090076002069068060031127103104029043090065112075083065119051020006028053099114067091124114084091000007041083080125007010121027098094073085106073072125019111075084103118022022008085085&EXT=pdf&INDEX=TRUE" target="_blank" rel="noreferrer" align="center"><b>Read paper here</b></a>
-</a>  
+</a>
+
 ____________________________
 
 
