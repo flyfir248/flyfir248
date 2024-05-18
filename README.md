@@ -221,4 +221,6 @@ ____________________________
 
 - ⚡**Python website App :** <a href="https://pythonpythonme.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
 
+- ⚡**Book Recommender Web App :** <a href="https://book-recommender-system-5wpy.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
+
 
