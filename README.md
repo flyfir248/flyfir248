@@ -28,6 +28,8 @@
   
 - ResearchGate 👨‍🔬: https://www.researchgate.net/profile/Anoop-Johny-4
 - Work at SCAI : https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/Software-Scientific-Computing/team.html
+
+- Check out my Web extension ![here](https://addons.mozilla.org/en-US/firefox/addon/research-thread-tracker/) : Research Thread Tracker helps you manage your research by saving and categorizing web pages and topics. Features include topic tagging, search functionality, and easy access to saved research. Ideal for students, professionals, and researchers. Supports multiple categories and secure data storage.
 __________________________________
 ![GitHub Contributions 3D Model](https://github.com/flyfir248/github-stls/blob/main/flyfir248-2023.stl)
 __________________________________
