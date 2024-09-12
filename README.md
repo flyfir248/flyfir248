@@ -33,7 +33,7 @@
   <img align="center" src="https://github.com/flyfir248/Knots-Research-Tracker/raw/main/img.png" height="30" width="40" /> 
 </a> Research Thread Tracker helps you manage your research by saving and categorizing web pages and topics. Features include topic tagging, search functionality, and easy access to saved research. Ideal for students, professionals, and researchers. Supports multiple categories and secure data storage.
 
-- Build in progress "Tasks App" <img align="center" href="https://github.com/flyfir248/Daily-Tasks" src="https://github.com/user-attachments/assets/7e576f15-6361-466d-9588-ba034afda07e" height="30" width ="40"/>
+- Build in progress "Tasks App" <a href="https://github.com/flyfir248/Daily-Tasks" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7e576f15-6361-466d-9588-ba034afda07e" height="30" width ="40"/>
 </a> App which allows users to keep track of essential tasks. Users also can see analysis and anlytics associated with their tasks and It's a work in progress.
 
 __________________________________
