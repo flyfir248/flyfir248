@@ -29,13 +29,6 @@
 - ResearchGate 👨‍🔬: https://www.researchgate.net/profile/Anoop-Johny-4
 - Work at SCAI : https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/Software-Scientific-Computing/team.html
   
-- Check out my web extension <a href="https://addons.mozilla.org/en-US/firefox/addon/research-thread-tracker/" target="blank">
-  <img align="center" src="https://github.com/flyfir248/Knots-Research-Tracker/raw/main/img.png" height="30" width="40" /> 
-</a> Research Thread Tracker helps you manage your research by saving and categorizing web pages and topics. Features include topic tagging, search functionality, and easy access to saved research. Ideal for students, professionals, and researchers. Supports multiple categories and secure data storage.
-
-- Build in progress "Tasks App" <a href="https://github.com/flyfir248/Daily-Tasks" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7e576f15-6361-466d-9588-ba034afda07e" height="30" width ="40"/>
-</a> App which allows users to keep track of essential tasks. Users also can see analysis and anlytics associated with their tasks and It's a work in progress.
-
 __________________________________
 ![GitHub Contributions 3D Model](https://github.com/flyfir248/github-stls/blob/main/flyfir248-2023.stl)
 __________________________________
@@ -192,44 +185,5 @@ ____________________________
 <a href="https://deliverypdf.ssrn.com/delivery.php?ID=560120086072068003018125066080004005063062020029025039112122127081031090076002069068060031127103104029043090065112075083065119051020006028053099114067091124114084091000007041083080125007010121027098094073085106073072125019111075084103118022022008085085&EXT=pdf&INDEX=TRUE" target="_blank" rel="noreferrer" align="center"><b>Read paper here</b></a>
 </a>
 
-____________________________
-
-
-<h3 align="center">My Flask Apps</h3>
-
-____________________________
-
-- ⚡**StockMarket App :** <a href="https://stockmarketapp.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-  
-- ⚡**ImageSearch App :** <a href="https://fireflyappgoawhistler.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-
-- ⚡**Add-to-Cart App :** <a href="https://addcartstuff-anoopjohny.netlify.app/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-
-- ⚡**Dynamicnamelist App :** <a href="https://dynamicnamelist.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**NCBIwebapp App :** <a href="https://ncbiwebapp.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-
-- ⚡**Cinema App :** <a href="https://cinemaapp-ce4k.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-
-- ⚡**News App :** <a href="https://newsapp-dcs6.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**Gorilla code generator LLM App :** <a href="https://gorillallm.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**Sentiment Streamlit App :** <a href="https://sentimentapp-dyni.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**Sentiment Flask App :** <a href="https://sentiment-app2.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**Stock market Analytics Dashboard:** <a href="https://stockmarket-analysisa-alpha.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**Flask Blog App :** <a href="https://flaskblog-r8ci.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**Python website App :** <a href="https://pythonpythonme.onrender.com" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-- ⚡**Book Recommender Web App :** <a href="https://book-recommender-system-5wpy.onrender.com/" target="_blank" rel="noreferrer" align="center"> <img  src="https://github.com/flyfir248/stockmarket/blob/main/static/res/web.png" alt="bootstrap" width="40" height="40"/> </a>
-
-
+-**Current state of data stewardship tools in life science**
+<a href="https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1428568/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Big_Data&id=1428568" target="_blank" rel="noreferrer" align="center"> : <b>Click Here to check the preview!!</b>
