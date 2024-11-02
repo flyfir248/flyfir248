@@ -9,22 +9,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyfir248&theme=matrix" alt="flyfir248" /></a> </p>
 <img align="right" alt="dancing computer" width=400 src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47undw84g8v27im1ipaavknrsttjxpj4amupofwia6&rid=giphy.gif&ct=g"></img>
 
-- 🔭 I’m trying to **understand applied Ml and DL**
-
-- 🌱 I’m currently learning **various aspects of programming**
-
-- 👯 I’m looking to collaborate **on any project to get more experience**
-
-- 🤝 I want to be a **problem solver**
-
-- 👨‍💻 All of my projects are available at [https://github.com/flyfir248](https://github.com/flyfir248)
 - 👨‍✍️💻 I also write for medium [https://medium.com/@anoopjohny2000](https://medium.com/@anoopjohny2000)
 
 - 📝 I regularly write articles on [https://pythonpythonme.netlify.app/index.html](https://pythonpythonme.netlify.app/index.html)
-
-- 💬 Ask me about **bioinformatics,Life Science Informatics... I may prove to be helpful**
-
-- ⚡ Fun fact **"The only true wisdom is in knowing you know nothing." - Socrates**
   
 - ResearchGate 👨‍🔬: https://www.researchgate.net/profile/Anoop-Johny-4
 - Work at SCAI : https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/Software-Scientific-Computing/team.html
@@ -185,5 +172,5 @@ ____________________________
 <a href="https://deliverypdf.ssrn.com/delivery.php?ID=560120086072068003018125066080004005063062020029025039112122127081031090076002069068060031127103104029043090065112075083065119051020006028053099114067091124114084091000007041083080125007010121027098094073085106073072125019111075084103118022022008085085&EXT=pdf&INDEX=TRUE" target="_blank" rel="noreferrer" align="center"><b>Read paper here</b></a>
 </a>
 
--**Current state of data stewardship tools in life science**
+- **Current state of data stewardship tools in life science**
 <a href="https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1428568/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Big_Data&id=1428568" target="_blank" rel="noreferrer" align="center"> : <b>Click Here to check the preview!!</b>
